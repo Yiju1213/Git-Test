@@ -1,4 +1,3 @@
 hello everyone!
 I'm YIJU from BUAA.
-Create a new branch is fast!
-test branch.
+conflict fixed.
